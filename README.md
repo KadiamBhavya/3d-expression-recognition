@@ -1,7 +1,7 @@
 # Project Title: 3D Facial Expression Recognition
 
 ## Tech Stack
-Programming Language: Python 3.x
+Programming Language: Python 
 Machine Learning Models: Random Forest, Support Vector Machine (SVM), Decision Tree
 Visualization: Matplotlib (3D scatter plots)
 Libraries: scikit-learn, pandas, numpy
