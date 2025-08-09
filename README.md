@@ -68,9 +68,6 @@ Generates 3D scatter plots of a random face in:
    Translated
    Rotated (X, Y, Z)
   
-# Screenshots
-Sample 3D scatter plots showing facial landmarks in original, translated, and rotated forms.
-
 # Glossary
 3D Landmark: A point in 3D space representing a facial keypoint.
 Cross-Validation: A method to ensure model generalization by splitting the data into training and testing sets multiple times.
